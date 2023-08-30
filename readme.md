@@ -1,1 +1,1 @@
-Go Gin with MySQL Database
+Go Gin Jwt wih Postgres Database
